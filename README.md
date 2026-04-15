@@ -20,7 +20,7 @@ The goal of this dashboard is to identify workforce risks and engagement pattern
 
 ## Dashboard Pages
 ### 1. Insights & Action Summary
-![Insights Summary](screenshots/01-insights-summary.png)
+![Insights Summary](https://raw.githubusercontent.com/duffypol-ux/employee-engagement-powerbi-report/main/screenshots/01-insights-summary.png)
 
 ### 2. Our People
 ![Our People](screenshots/02-our-people.png)
